@@ -1,6 +1,18 @@
 # UAS - 06TPLM001 - KELOMPOK 5 - 181011400505 - Pandu Dewonoto Laut Santoso
 Repository Untuk Jawaban UAS Mata Kuliah Pemrograman Web 2 Pada Kelas 06TPLM001
 
+Daftar Anggota Kelompok 5 :
+
+Muhammad Ramlan ~ 171011400615
+Muhammad Yusuf Qardhawi ~ 181011400139
+Multazam ~ 181011402182
+Nanda Rizky Maulana ~ 181011400851
+Novranto Pratama Zai ~ 171011401684
+Pandu Dewonoto Laut Santoso ~ 181011400505
+Raden Wirawan Kukuh Pambudi ~ 181011402940
+Rahmad Danil Fajri ~ 181011401098
+Rama Adi Saputra ~ 171011400425
+
 Aplikasi ini merupakan aplikasi pendataan pemesanan makanan berbasis web yang dikembangkan dengan menggunakan beberapa bahasa, yakni html, css, PHP, serta JavaScript.
 Adapun tujuan pembuatan aplikasi ini ialah sebagai pemenuh kewajiban akhir mahasiswa terhadap aktivitas Ujian Akhir Semester Genap 2020 / 2021.
 
